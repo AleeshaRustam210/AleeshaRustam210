@@ -1,9 +1,11 @@
 ### 👋 Hi, I'm Aleesha Rustam
 
 👩‍🎓 CS & IT Student | Python & C++ Programmer | AI & ML Enthusiast
+
 🌱 Learning Artificial Intelligence and Machine Learning
+
 💬 Ask me about Python, C++, AI, or ML
-📫 Contact me:
+📫 Contact me :linkedin
 
 ### 🛠️ Skills & Tools
 
