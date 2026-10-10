@@ -5,7 +5,9 @@
 🌱 Learning Artificial Intelligence and Machine Learning
 
 💬 Ask me about Python, C++, AI, or ML
+
 📫 Contact me :linkedin
+
 
 ### 🛠️ Skills & Tools
 
